@@ -15,7 +15,7 @@ Ultra customizable hud featuring a unique and robust settings menu. Change eveyt
 ![Project Sloth Buttons 2](https://user-images.githubusercontent.com/91661118/170895968-c4224105-5c87-4947-af94-8e8bd792f566.png)
 
 ### Optional:
-* [ps-buffs](https://github.com/Project-Sloth/ps-buffs)
+* ps-buffs = https://github.com/XXMAAXX/ps_buffs_qbox_dev.git
 
 ### ⚠️Important:
 - **If the minimap is pulsating or flickering, make sure if you are using custom maps that you ensure ps-hud BEFORE map resource.**
